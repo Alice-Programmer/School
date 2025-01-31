@@ -1,4 +1,4 @@
-
+double math_pro(void);//数学処理
 
 typedef struct
 {
